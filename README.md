@@ -1,30 +1,181 @@
 <h1 align="center">Hi 👋, I'm Chathuri Kaveesha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<p align="center">I'm an undergraduate pursuing a BEng (Hons) in Software Engineering at ESOFT Metro Campus. I specialize in front-end development using HTML, CSS, JavaScript, React.js, and Bootstrap. I'm passionate about building intuitive and responsive web interfaces and always eager to learn and collaborate on new projects. Check out my work and feel free to connect!</p>
+<h3 align="center">🎓 Graduate Software Engineer</h3>
+<h3 align="center">💻 Full-Stack Developer (React | Node.js | .NET)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesh2003" /> </p>
 
-- 🌱 I’m currently learning **React.js,Java**
+## 🚀 About Me
 
-- 💬 Ask me about **HTML,CSS**
+Graduate Software Engineer with hands-on experience in building full-stack applications using React, Node.js, and .NET.
 
-- 📫 How to reach me **chathurikv@gmail.com**
+Built real-world systems including management applications and AI-based solutions, focusing on authentication, API development, and database design.
+
+Passionate about building real-world applications and continuously improving through hands-on development.
+
+- 💬 Ask me about React, Node.js, REST APIs, and .NET applications
+
+- 📫 Reach me at: chathurikv@gmail.com
+
+## 🎯 Career Focus
+
+- Full-Stack Development (React, Node.js, .NET)
+- Backend Development & REST API Design
+- Scalable Web Applications
+
+## 💼 Open to Opportunities
+
+I am actively seeking:
+- Software Engineer Intern roles  
+- Junior Software Engineer roles  
+- QA Engineer Intern roles
+
+## 📌 Featured Projects
+
+### 🔹 TripGenie – AI-Based Personalized Travel Planner
+**Tech Stack:** React.js, Node.js, Express.js, TypeScript, PostgreSQL, Tailwind CSS, Gemini API, OpenWeather API, React-Leaflet  
+
+- AI-powered travel planner generating personalized itineraries and checklists  
+- Integrated Gemini API for intelligent chatbot-based travel recommendations  
+- Real-time weather updates using OpenWeather API  
+- Interactive maps using React-Leaflet  
+- Built secure REST APIs with JWT authentication and role-based access control  
+- Designed scalable PostgreSQL database  
+
+---
+
+### 🔹 Household Goods Transport Management System (e-Shift)
+**Tech Stack:** C#, .NET Framework, Windows Forms, SQL Server, Crystal Reports  
+
+- Desktop application to manage customers, jobs, loads, and transport operations  
+- Implemented role-based authentication for secure access  
+- Integrated SQL Server for data management and transactions  
+- Generated operational and analytical reports using Crystal Reports  
+
+---
+
+### 🔹 Travel Chatbot Application
+**Tech Stack:** React.js, Rasa, NLTK, spaCy  
+
+- AI-powered chatbot using Rasa for intent recognition  
+- Built React frontend for real-time interaction  
+- Applied NLP techniques to improve response accuracy  
+
+---
+
+### 🔹 D-Luxe Hotel Reservation System
+**Tech Stack:** HTML5, JavaScript, Tailwind CSS, Python, SQLite  
+
+- Web-based system for room booking and customer management  
+- Backend built with Python and SQLite  
+- Responsive UI with Tailwind CSS  
+- Implemented dynamic booking features and form validation  
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chathuri kaveesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuri kaveesha" height="30" width="40" /></a>
-<a href="https://fb.com/chathuri kaveesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuri kaveesha" height="30" width="40" /></a>
-<a href="https://instagram.com/_kavee_sh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kavee_sh._" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaveesh2003&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Other</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+    </td>
+  </tr>
+
+</table>
+
+## 🛠 Tech Stack
+
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, ASP.NET, .NET Framework  
+**Languages:** JavaScript, TypeScript, C#, Python, PHP  
+**Databases:** MySQL, PostgreSQL, SQL Server, SQLite  
+**Tools:** Git, GitHub, VS Code, Visual Studio, Postman  
+**Other:** Figma, Adobe Photoshop, Power BI, Crystal Reports  
+
+## 📚 Currently Learning
+
+- Next.js  
+- Advanced Backend Architecture  
+- API Optimization Techniques  
+
+<h3 align="center">Connect with me:</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/chathuri-kaveesha-8936a5297" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://fb.com/chathuri.kaveesha" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/_kavee_sh._" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats:
 <p align="center">
